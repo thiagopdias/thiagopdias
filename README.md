@@ -1,8 +1,9 @@
 # Hello! I am Thiago Dias
 
-- 🖥️ I'm learning HTML5 and CSS3
+- 🖥️ I'm learning HTML5 & CSS3
 - 💻 I'm learning JavaScript
 - 🌎 I'm learning English
+
 <div>
   <a href="https://github.com/thiagopdias">
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopdias&layout=compact&langs_count=7&theme=dark"/>
