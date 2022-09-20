@@ -1,8 +1,16 @@
-# Hello! I am Thiago Dias
+# Oi, sou Thiago, seja bem-vindo!
 
-- 🖥️ I'm learning HTML5 & CSS3
-- 💻 I'm learning JavaScript
-- 🌎 I'm learning English
+
+## Tecnologias que já utilizo
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Estudando atualmente
+
+- Reactjs
+- English
 
 <div align="center">
   <a href="https://github.com/thiagopdias">
