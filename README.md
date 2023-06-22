@@ -1,4 +1,7 @@
-# Oi, sou Thiago, seja bem-vindo!
+# Sobre
+Olá, tenho Formação Tecnóloga em Gestão da Tecnologia da Informação pelo Centro Universitário Ítalo Brasileiro, onde reforcei o meu trabalho em equipe, fazendo trabalhos para avaliação dos professores na nota final.
+
+Já trabalhei com jovem aprendiz pela instituição Nurap, onde adquirir experiência de como fazer atendimento ao cliente, organizar documentos e trabalho em equipe. Também trabalhei com assistente de operações na KPMG Brasil, onde auxiliar na auditoria de empresas, triando notas fiscais para digitalização e preenchendo planilhas com os dados dessas notas fiscais.
 
 
 ## Tecnologias que já utilizo
@@ -6,11 +9,7 @@
 - HTML5
 - CSS3
 - JavaScript
-
-## Estudando atualmente
-
-- Reactjs
-- English
+- React
 
 <div align="center">
   <a href="https://github.com/thiagopdias">
